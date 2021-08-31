@@ -1,0 +1,11 @@
+sources:
+  "0.1.0":
+    url: "https://github.com/nitroshare/qmdnsengine/archive/refs/tags/0.1.0.tar.gz"
+    sha256: "27416ca7b8b8a8588df4318de57127ef97e1205269fa506f00f21b09d30d3ac2"
+  "0.2.0":
+    url: "https://github.com/nitroshare/qmdnsengine/archive/refs/tags/0.2.0.tar.gz"
+    sha256: "b9a4e86de2afd31224ca2007713a2d9bcc0334358f831a2b83a7161b7d91c614"
+
+  "0.2.0-next":
+    url: "https://www.github.com/nitroshare/qmdnsengine/archive/0ca80117e853671d909b3cec9e2bdcac85a13b9f.tar.gz"
+    sha256: "3ae288458e3fc1c1e636869aaca0fd5c77bdd6aec6fd4d62217d0f46acd4042c"
