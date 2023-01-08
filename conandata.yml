@@ -5,3 +5,9 @@ sources:
   "0.2.0":
     url: "https://github.com/nitroshare/qmdnsengine/archive/refs/tags/0.2.0.tar.gz"
     sha256: "b9a4e86de2afd31224ca2007713a2d9bcc0334358f831a2b83a7161b7d91c614"
+  "0.2.0-2022-01-15":
+    url: "https://www.github.com/nitroshare/qmdnsengine/archive/0ca80117e853671d909b3cec9e2bdcac85a13b9f.tar.gz"
+    sha256: "3ae288458e3fc1c1e636869aaca0fd5c77bdd6aec6fd4d62217d0f46acd4042c"
+patches:
+  "0.2.0-2022-01-15":
+    - patch_file: "patches/0001-cmake_std_version.patch"
