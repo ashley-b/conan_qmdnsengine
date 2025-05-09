@@ -1,5 +1,9 @@
 # Conan qmdnsengine recipe
 
+## Deprecated
+
+This repository is no longer maintained. This recipe is now part of [conan-recipes repository](https://github.com/ashley-b/conan-recipes/)
+
 ## Description
 
 Simple Conan recipe for https://www.github.com/nitroshare/qmdnsengine
